@@ -9,6 +9,12 @@ Dit project is een eenvoudig computerspel gebaseerd op het klassieke Pacman-spel
 - **Ontwikkelingseisen**: De ontwikkeling moet rekening houden met mogelijke uitbreidingen en worden uitgevoerd met behulp van de UP-methode. Versiebeheer wordt gedaan met SVN.
 - **Softwarepakketten/Ontwikkelomgeving**: Voor de ontwikkeling wordt gebruik gemaakt van Rational Rose voor UML-diagrammen, Netbeans 6.8 als Java-ontwikkelomgeving, JUnit voor testscripts, JDK 1.6, Javadoc en SVN voor versiebeheer.
 
+## Screenshots
+![Happer (3)](https://github.com/tuwinannings/Blok-I2-Project-Happer/assets/29577623/248dbe8f-9935-40a5-bae8-31f326350bb2)
+![Happer (2)](https://github.com/tuwinannings/Blok-I2-Project-Happer/assets/29577623/84660440-224b-449c-85ae-4e1ac3b7471c)
+![Happer (1)](https://github.com/tuwinannings/Blok-I2-Project-Happer/assets/29577623/580cc12c-7cc7-4ff7-bdef-3f036f957653)
+
+
 ## Installatie
 
 1. Kloon de repository naar je lokale machine.
